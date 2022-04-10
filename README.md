@@ -209,3 +209,25 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis.
 
 
 ![10_1.png](Gambar/10_1.png)
+
+
+
+
+
+# TUGAS
+## Memvalidasi Isian Form
+
+* Untuk validasi apakah kolom sudah terisi atau belum, yaitu menggunakan atribut required dengan cara menambahkannya pada tag yang diinginkan.
+
+
+
+![11.png](Gambar/11.png)
+
+
+
+
+* Maka akan menampilkan gambar seperti berikut.
+
+
+
+![11_1.png](Gambar/11_1.png)
